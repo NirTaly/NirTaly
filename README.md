@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NirTaly
+- 🌱 I’m currently learning Computer Engineering
+- 👀 Check out my cloud project - Ducloud - had fun while practicing some design patterns by implementing request engine.
