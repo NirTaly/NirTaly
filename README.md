@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @NirTaly
 - 🌱 I’m currently learning Computer Engineering
-- 👀 Check out my cloud project - Ducloud - had fun with some design patterns by implementing request engine.
+- 👀 Check out my cloud [C++], AngryBirds [SystemVerilog] projects
